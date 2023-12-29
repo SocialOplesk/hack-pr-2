@@ -70,6 +70,7 @@ PULL_REQUEST_TEMPLATE
 
 # Seleccione el tipo de actividad
 - [ ] Feature
+- [ ] Changes
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
